@@ -19,14 +19,58 @@ Create video with no sound like vine
 Put thick green border
 Add text
 Link Navigation
+Add small avatar
+
+PG 9 
+Research how to play to videos back at the same time
+Create a practice video and post to youtube or viddy
+Put both videos on the screen
+Add do again button
+add move on button
+
+PG3
+Research how to put an image over a camera
+Turn on camera and put image overlay
+Create Dotted line asset
+Create Green asset
+Create animation of green (optional)
+Advance to next page at the end of animation
+
+PG4
+Create Overlay graphic
+Navigate to next page on swipe
+
+PG5 
+Research animations what works on phone (flash, css/javascript)
+Figure out how to advance on a timer
+Put loading words on screen and tip
+Put avatar on center of screen
+
+PG6
+Create overlay graphic
+Animate in flash or css 5, 4, 3, 2, 1
 
 
-James Todo List
 
+PG7
+Research how to disply video capture while another is playing
+Research how to update a counter on the screen everytime it reloads
+Grab Youtube code
 
+PG8
+copy loading from pg6
+Add text
+update tip
+Create advertising
+add advertising
 
-Reggie Todo list
+PG10
+Select images for rewards
+FIgure out how to do FB button using template
 
+PG 11
+Create map placholder
+Add navigation
 
 
 
