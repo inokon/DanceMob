@@ -21,12 +21,7 @@ DONE Add text
 DONE Link Navigation
 DONE Add small avatar
 
-PG 9 
-Research how to play to videos back at the same time
-Create a practice video and post to youtube or viddy
-Put both videos on the screen
-Add do again button
-add move on button
+
 
 PG3
 Research how to put an image over a camera
@@ -63,6 +58,13 @@ Add text
 update tip
 Create advertising
 add advertising
+
+PG 9 
+Research how to play to videos back at the same time
+Create a practice video and post to youtube or viddy
+Put both videos on the screen
+Add do again button
+add move on button
 
 PG10
 Select images for rewards
