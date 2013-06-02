@@ -5,9 +5,20 @@ Files we created for the ATTHack for the Thriller Flash Mob happening 10/26/13
 
 
 Angel's ToDo list
-Figure out landscape mode
-Cut placholder background to size
 
+PG1
+DONE Figure out landscape mode
+Cut placholder background to size
+Add Navigation Button or swipe dots
+Add logo or title to tutorial
+Add placeholder for audio files
+
+PG2
+Create page
+Create video with no sound like vine
+Put thick green border
+Add text
+Link Navigation
 
 
 James Todo List

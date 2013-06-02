@@ -1,6 +1,6 @@
 window.forge = {}; window.forge.config = {
     "author": "angel@thatsmymove.com", 
-    "config_hash": "977b1ae4f1ff40f0256dbf93c20827b32e3e60fa", 
+    "config_hash": "548a0e20241e7bdf1de7183aa1d6929434fb8612", 
     "config_version": "4", 
     "core": {
         "android": {
@@ -35,6 +35,16 @@ window.forge = {}; window.forge.config = {
     "platform_version": "v1.4.47", 
     "plugins": {
         "contact": {
+            "hash": "notahash"
+        }, 
+        "display": {
+            "config": {
+                "orientations": {
+                    "android": "landscape", 
+                    "ipad": "landscape", 
+                    "iphone": "landscape"
+                }
+            }, 
             "hash": "notahash"
         }, 
         "file": {

@@ -15,9 +15,19 @@
 		"media": true,
 		"prefs": true,
 		"request": {
-			"permissions": ["http://*/*", "https://*/*"]
+			"permissions": [
+				"http://*/*",
+				"https://*/*"
+			]
 		},
 		"tools": true,
-		"reload": true
+		"reload": true,
+		"display": {
+			"orientations": {
+				"iphone": "landscape",
+				"ipad": "landscape",
+				"android": "landscape"
+			}
+		}
 	}
 }
