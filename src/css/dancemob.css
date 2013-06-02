@@ -16,4 +16,7 @@ body {
 
 #avatar {
 	float:left;
+	border:5px solid black;
+	width: 62px;
+	height:62px;
 }
