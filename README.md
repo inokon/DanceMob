@@ -7,19 +7,19 @@ Files we created for the ATTHack for the Thriller Flash Mob happening 10/26/13
 Angel's ToDo list
 
 PG1
-DONE Figure out landscape mode
+DONE Figure out landscape mode 
 Cut placholder background to size
 Add Navigation Button or swipe dots
 Add logo or title to tutorial
 Add placeholder for audio files
 
 PG2
-Create page
-Create video with no sound like vine
-Put thick green border
-Add text
-Link Navigation
-Add small avatar
+DONE Create page
+DONE Create video with no sound like vine
+DONE Put thick green border
+DONE Add text
+DONE Link Navigation
+DONE Add small avatar
 
 PG 9 
 Research how to play to videos back at the same time

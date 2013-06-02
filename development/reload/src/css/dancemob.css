@@ -4,8 +4,19 @@
 #tutorial {
     text-align: center;
     padding-top: 25px;
+	max-width: 250 px;
+	
 }
 
 body {
 		background: #0C6 url(../images/1gnow-wallpaper-4-290x160.jpg) no-repeat center;
+}
+
+
+
+#avatar {
+	float:left;
+	border:5px solid black;
+	width: 62px;
+	height:62px;
 }
